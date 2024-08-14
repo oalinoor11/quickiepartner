@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "927538668697",
+    "project_id": "food-delivery-c4dd2",
+    "storage_bucket": "food-delivery-c4dd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927538668697:android:33dd50d9c34143becb4408",
+        "android_client_info": {
+          "package_name": "com.mstoreapp.food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927538668697-brlci9irqt5nemjp5u7esvl788rfv01g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mstoreapp.food",
+            "certificate_hash": "f3049245a132e1427cb5522eb6f501686aa1b42f"
+          }
+        },
+        {
+          "client_id": "927538668697-p4v4mq4kd46ktehujql30hi7kildmq1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mstoreapp.food",
+            "certificate_hash": "dc7fb489ddd192eeb3a34d741956f7048f096b9f"
+          }
+        },
+        {
+          "client_id": "927538668697-mnkaggic4m934iq6gp7do3kntj20hgsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiXnIB-o0UulIDGNxRSj6cWzkQPxK7z3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927538668697-mnkaggic4m934iq6gp7do3kntj20hgsn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "927538668697-09musmlljoqdds8410qvv43ri7f5538p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mstoreapp.partner"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927538668697:android:ccfb3d84dcb57592cb4408",
+        "android_client_info": {
+          "package_name": "com.mstoreapp.partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927538668697-6be0v5k6ri7ahos0r1h36d8jhb1pvd6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mstoreapp.partner",
+            "certificate_hash": "96ccc35bc1dfd1e23792c4acd02de59337883d1e"
+          }
+        },
+        {
+          "client_id": "927538668697-oha7cefn5lhucii4c8bl5tmfhtrm3r01.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mstoreapp.partner",
+            "certificate_hash": "ccbeba0bf3fd0af9aabe72f84ec3a7149af4043a"
+          }
+        },
+        {
+          "client_id": "927538668697-mnkaggic4m934iq6gp7do3kntj20hgsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiXnIB-o0UulIDGNxRSj6cWzkQPxK7z3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927538668697-mnkaggic4m934iq6gp7do3kntj20hgsn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "927538668697-09musmlljoqdds8410qvv43ri7f5538p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mstoreapp.partner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
